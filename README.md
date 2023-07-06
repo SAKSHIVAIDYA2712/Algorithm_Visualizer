@@ -10,7 +10,7 @@ Asynchronous Programming: Asynchronous functions and promises are used to handle
 1. To run the Sorting Visualizer locally, follow these steps:
 
 2. Clone the repository:
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/sakshivaidya2712/sorting-visualizer.git
 
 3. Navigate to the project directory:
 cd sorting-visualizer
