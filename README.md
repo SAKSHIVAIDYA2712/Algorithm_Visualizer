@@ -14,8 +14,7 @@ Sorting Visualizer is a web application that provides a visual representation of
 2. Clone the repository:
 git clone https://github.com/sakshivaidya2712/sorting-visualizer.git
 
-3. Navigate to the project directory:
-cd sorting-visualizer
+3. Navigate to the project directory
 
 4. Open the index.html file in your preferred web browser.
 
