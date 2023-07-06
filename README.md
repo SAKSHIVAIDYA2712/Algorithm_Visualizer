@@ -2,11 +2,11 @@
 Sorting Visualizer is a web application that provides a visual representation of various sorting algorithms. It allows users to interactively observe how different sorting algorithms operate on a given set of data.
 
 # Technologies Used
-. HTML, CSS, and JavaScript: The core web technologies are used to build the user interface and implement the sorting algorithm visualizations.
+ HTML, CSS, and JavaScript: The core web technologies are used to build the user interface and implement the sorting algorithm visualizations.
 
-. DOM Manipulation: The Document Object Model (DOM) is manipulated to dynamically update the user interface elements and visualize the sorting process.
+ DOM Manipulation: The Document Object Model (DOM) is manipulated to dynamically update the user interface elements and visualize the sorting process.
 
-. Asynchronous Programming: Asynchronous functions and promises are used to handle time delays and ensure smooth execution of the sorting algorithm visualizations.
+ Asynchronous Programming: Asynchronous functions and promises are used to handle time delays and ensure smooth execution of the sorting algorithm visualizations.
 
 # Getting Started
 1. To run the Sorting Visualizer locally, follow these steps:
